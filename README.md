@@ -1,2 +1,2 @@
 # fpgacv
-FPGA CV - The framework for FPGA Computer Vision development
+Use this repo instead: **https://github.com/cambert/FPGA-CV/blob/master/README.md**
